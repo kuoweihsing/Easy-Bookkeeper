@@ -18,3 +18,9 @@ Easy bookkeeping with various currencies.
 1. This is a collaborated project.
 2. The author (Boris Kuo) is in charge of the structure of the app, all the functioning buttons, and creating csv files.
 3. Other parts such as creating the analysis charts, foreign currency translations, and extracting csv files, are completed by other members.
+
+## Complete month
+Jan 2020
+
+## Python version
+3.6 or above
